@@ -5,7 +5,7 @@
 		"label": "Full-Stack Cloud Engineer",
 		"email": "ramshyam1982@gmail.com",
 		"phone": "+610403341846",
-		"summary": "20 years experienced and dedicated Full-Stack Cloud Engineer with a strong background in NodeJS, TypeScript, backend services, AWS, Azure, ReactJS and Flutter. I possess a growth mindset and a can-do attitude. I am highly skilled in designing and managing scalable cloud infrastructures, backend microservices and excel at translating complex requirements into efficient software with robust architecture. I am keen to enhance my skills through new challenges. Australian Citizen.",
+		"summary": "Full-Stack Cloud & IoT Engineer with 2 decades of experience and AI orchestrator. Expert in NodeJS, TypeScript, AWS, Azure, ReactJS, Flutter. Advocates code governance, boilerplate design, and translating business problems into clear implementation models.",
 		"location": {
 			"city": "Melbourne",
 			"region": "Victoria",
@@ -27,10 +27,11 @@
 	"work": [
 		{
 			"name": "Worksafe Victoria",
+			"company": "Worksafe Victoria",
 			"position": "Full Stack Cloud Engineer",
-			"url": "",
+			"url": "https://www.worksafe.vic.gov.au/",
 			"startDate": "2012-01",
-			"endDate": "2023-06",
+			"endDate": "Current",
 			"summary": "Champion in serverless API development and SaaS integration. Expert in stateless execution and immutable data engineering. Built scalable, high-performance, economical, and secure cloud infrastructure.",
 			"location": "Melbourne",
 			"highlights": [
@@ -61,7 +62,7 @@
 		{
 			"name": "UnitedHealth Group",
 			"position": "Analyst Programmer",
-			"url": "",
+			"url": "https://www.unitedhealthgroup.com/",
 			"startDate": "2008-09",
 			"endDate": "2011-12",
 			"summary": "Developed and optimized server-side logic. Worked with RESTful APIs and various Node.js frameworks. Specialized in the integration of APIs (FinTech & HIPAA).",
@@ -81,7 +82,7 @@
 		{
 			"name": "Radicle Inc.",
 			"position": "Analyst Programmer",
-			"url": "",
+			"url": "https://radicleinc.com/",
 			"startDate": "2006-07",
 			"endDate": "2008-08",
 			"summary": "Prepared design documents and coded per requirements in J2EE. Designed and developed scalable server-side applications using Java.",
@@ -211,7 +212,17 @@
 				"Jira",
 				"Shortcut",
 				"CI/CD",
-				"Agile Practices"
+				"Agile Practices",
+				"Code Governance"
+			]
+		},
+		{
+			"name": "Practices & Expertise",
+			"keywords": [
+				"AI Orchestrator",
+				"Code Governance",
+				"Boilerplate Expert",
+				"Mental Model Expert"
 			]
 		},
 		{
