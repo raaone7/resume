@@ -1,169 +1,288 @@
 {
-  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
-  "basics": {
-    "name": "Ram Subramanian",
-    "label": "Full-Stack Cloud Engineer",
-    "email": "ramshyam1982@gmail.com",
-    "phone": "0403 341 846",
-    "summary": "17 years experienced and dedicated Full-Stack Cloud Engineer with a strong background in NodeJS, TypeScript, backend services, AWS, Azure, ReactJS and Flutter. I possess a growth mindset and a can-do attitude. I am highly skilled in designing and managing scalable cloud infrastructures, backend microservices and excel at translating complex requirements into efficient software with robust architecture. I am keen to enhance my skills through new challenges. Australian Citizen.",
-    "location": {
-      "city": "Melbourne",
-      "region": "Victoria",
-      "countryCode": "AU"
-    },
-    "profiles": []
-  },
-  "work": [
-    {
-      "name": "Worksafe Victoria",
-      "position": "Full Stack Cloud Engineer",
-      "url": "",
-      "startDate": "2012-01",
-      "endDate": "2023-06",
-      "summary": "Champion in serverless API development and SaaS integration. Expert in stateless execution and immutable data engineering. Built scalable, high-performance, economical, and secure cloud infrastructure.",
-      "location": "Melbourne",
-      "highlights": [
-        "Champion in serverless API development and SaaS integration",
-        "Expert in stateless execution and immutable data engineering",
-        "Built scalable, high-performance, economical, and secure cloud infrastructure",
-        "Specialized in async and sync event-driven solution architecture and decoupling microservices",
-        "Set up boilerplates, frameworks, and scoped components",
-        "Designed, implemented, and maintained high-performing server-side applications using Node.js and NoSQL/SQL databases",
-        "Visualized, designed, developed and monitored processes to run at scale",
-        "Broke down business processes into deliverable technical components for front-end and back-end squads",
-        "Rapid technical proof-of-concepts using polyglot development (NodeJS & ReactJS) and cloud (AWS & Azure)",
-        "Implemented PaaS / FaaS development using best practices",
-        "Proficient in designing and developing RESTful and GraphQL APIs",
-        "Designed and developed data storage solutions using databases and caching",
-        "Integrated front-end elements with server-side logic and APIs",
-        "Wrote reusable, testable, and efficient code following best practices",
-        "Debugged and fixed bugs, improved system performance, and responded to feature requests",
-        "Broke down monolith into microservices",
-        "Enabled cloud and migrated on-prem applications",
-        "Conducted thorough code reviews",
-        "Developed bots for housekeeping operations, resulting in significant cost savings",
-        "Delivered auto-healing solutions",
-        "Implemented Mobile DevOps to AppStore and Playstore",
-        "Implemented automated testing platforms and unit tests to ensure code quality"
-      ]
-    },
-    {
-      "name": "UnitedHealth Group",
-      "position": "Analyst Programmer",
-      "url": "",
-      "startDate": "2008-09",
-      "endDate": "2011-12",
-      "summary": "Developed and optimized server-side logic. Worked with RESTful APIs and various Node.js frameworks. Specialized in the integration of APIs (FinTech & HIPAA).",
-      "location": "New Jersey, USA & New Delhi, India",
-      "highlights": [
-        "Developed and optimized server-side logic",
-        "Worked with RESTful APIs and various Node.js frameworks",
-        "Demonstrated analytical skills, problem-solving abilities, and a commitment to delivering efficient, scalable software solutions",
-        "Developed various microservices in Node.js",
-        "Specialized in the integration of APIs (FinTech & HIPAA)",
-        "Developed bots for housekeeping operations, resulting in significant cost savings",
-        "Created event-driven microservices using Node.js and NoSQL/SQL databases",
-        "Automated morning checks using WebDriverJS & Splunk",
-        "Designed and implemented Single Sign-On for partners"
-      ]
-    },
-    {
-      "name": "Radicle Inc.",
-      "position": "Analyst Programmer",
-      "url": "",
-      "startDate": "2006-07",
-      "endDate": "2008-08",
-      "summary": "Prepared design documents and coded per requirements in J2EE. Designed and developed scalable server-side applications using Java.",
-      "location": "New Delhi, India",
-      "highlights": [
-        "Prepared design documents and coded per requirements in J2EE",
-        "Designed and developed scalable server-side applications using Java",
-        "Integrated authentication module using LDAP",
-        "Developed robust and scalable server-side applications using Java",
-        "Leveraged frameworks like Spring Boot for rapid development and increased efficiency",
-        "Identified and resolved application performance bottlenecks",
-        "Automated build and deployment using Jenkins and performed release management tasks",
-        "Automated the detection and alerting of problems in logs using Splunk and developed dashboards",
-        "Prioritized defects for releases and ensured quality assurance across the team",
-        "Developed REST APIs and automated test cases for modules"
-      ]
-    }
-  ],
-  "volunteer": [],
-  "education": [
-    {
-      "institution": "Federation University",
-      "url": "",
-      "area": "Information Technology",
-      "studyType": "Masters",
-      "startDate": "2004",
-      "endDate": "2005",
-      "score": "",
-      "courses": []
-    },
-    {
-      "institution": "Victoria University",
-      "url": "",
-      "area": "Information Systems",
-      "studyType": "Master of Business",
-      "startDate": "2003",
-      "endDate": "2004",
-      "score": "",
-      "courses": []
-    },
-    {
-      "institution": "Delhi University",
-      "url": "",
-      "area": "Mathematics",
-      "studyType": "Bachelor of Science (Honors)",
-      "startDate": "1999",
-      "endDate": "2002",
-      "score": "",
-      "courses": []
-    }
-  ],
-  "awards": [],
-  "certificates": [
-    { "name": "AWS Certified SysOps Administrator Associate", "issuer": "AWS" },
-    { "name": "AWS Certified Developer Associate", "issuer": "AWS" },
-    { "name": "AWS Certified Solution Architect Associate", "issuer": "AWS" },
-    { "name": "Microsoft Certified Azure IoT Developer Specialty", "issuer": "Microsoft" },
-    { "name": "Certificate in Applied Business Analytics", "issuer": "" }
-  ],
-  "publications": [],
-  "skills": [
-    {
-      "name": "Development",
-      "keywords": ["NodeJS", "TypeScript", "ReactJS", "NextJS", "Dart", "Flutter", "Shell Scripting", "Java", "REST", "GraphQL"]
-    },
-    {
-      "name": "Database",
-      "keywords": ["DynamoDB", "Cosmos DB", "MongoDB", "MySQL", "PostgreSQL", "Oracle", "Redis", "Elastic Search"]
-    },
-    {
-      "name": "DevOps",
-      "keywords": ["GitHub", "Code Pipeline", "Code Build", "GitHub Actions", "Bitrise", "AppCenter", "AppStore", "Play Store", "Appium", "Webdriver IO", "Playwright", "DataDog", "SumoLogic"]
-    },
-    {
-      "name": "Streamlining",
-      "keywords": ["GitHub", "Jira", "Shortcut", "CI/CD", "Agile Practices"]
-    },
-    {
-      "name": "AWS",
-      "keywords": ["Lambda", "Step Functions", "SQS", "SNS", "IAM", "KMS", "VPC", "VPN", "Route53", "S3", "CDN", "API Gateway", "ALB", "AppSync", "WAF", "EC2", "Cognito", "ElastiCache", "DynamoDB", "RDS", "CloudFormation", "ECS Fargate", "Kinesis", "CloudWatch", "X-Ray", "Verified Permissions"]
-    },
-    {
-      "name": "Microsoft Azure",
-      "keywords": ["Resource Groups", "Function App", "ApiM", "Azure AD", "Cosmos DB", "Storage Account", "Event Grid", "Event Bus", "Azure DevOps", "IoT Hub", "DPS", "Stream Analytics", "ARM Templates", "Bicep", "Azure Policies"]
-    },
-    {
-      "name": "SaaS",
-      "keywords": ["Plaid", "Square", "Synapse", "Customer.io", "Twilio", "SendGrid", "GetStream", "Amplitude", "Segment"]
-    }
-  ],
-  "projects": [],
-  "meta": {
-    "version": "v1.0.0",
-    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
-  }
+	"$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+	"basics": {
+		"name": "Ram Subramanian",
+		"label": "Full-Stack Cloud Engineer",
+		"email": "ramshyam1982@gmail.com",
+		"phone": "+610403341846",
+		"summary": "20 years experienced and dedicated Full-Stack Cloud Engineer with a strong background in NodeJS, TypeScript, backend services, AWS, Azure, ReactJS and Flutter. I possess a growth mindset and a can-do attitude. I am highly skilled in designing and managing scalable cloud infrastructures, backend microservices and excel at translating complex requirements into efficient software with robust architecture. I am keen to enhance my skills through new challenges. Australian Citizen.",
+		"location": {
+			"city": "Melbourne",
+			"region": "Victoria",
+			"countryCode": "AU"
+		},
+		"profiles": [
+			{
+				"network": "LinkedIn",
+				"username": "subramanianram",
+				"url": "https://www.linkedin.com/in/subramanianram/"
+			},
+			{
+				"network": "GitHub",
+				"username": "raaone7",
+				"url": "https://github.com/raaone7"
+			}
+		]
+	},
+	"work": [
+		{
+			"name": "Worksafe Victoria",
+			"position": "Full Stack Cloud Engineer",
+			"url": "",
+			"startDate": "2012-01",
+			"endDate": "2023-06",
+			"summary": "Champion in serverless API development and SaaS integration. Expert in stateless execution and immutable data engineering. Built scalable, high-performance, economical, and secure cloud infrastructure.",
+			"location": "Melbourne",
+			"highlights": [
+				"Champion in serverless API development and SaaS integration",
+				"Expert in stateless execution and immutable data engineering",
+				"Built scalable, high-performance, economical, and secure cloud infrastructure",
+				"Specialized in async and sync event-driven solution architecture and decoupling microservices",
+				"Set up boilerplates, frameworks, and scoped components",
+				"Designed, implemented, and maintained high-performing server-side applications using Node.js and NoSQL/SQL databases",
+				"Visualized, designed, developed and monitored processes to run at scale",
+				"Broke down business processes into deliverable technical components for front-end and back-end squads",
+				"Rapid technical proof-of-concepts using polyglot development (NodeJS & ReactJS) and cloud (AWS & Azure)",
+				"Implemented PaaS / FaaS development using best practices",
+				"Proficient in designing and developing RESTful and GraphQL APIs",
+				"Designed and developed data storage solutions using databases and caching",
+				"Integrated front-end elements with server-side logic and APIs",
+				"Wrote reusable, testable, and efficient code following best practices",
+				"Debugged and fixed bugs, improved system performance, and responded to feature requests",
+				"Broke down monolith into microservices",
+				"Enabled cloud and migrated on-prem applications",
+				"Conducted thorough code reviews",
+				"Developed bots for housekeeping operations, resulting in significant cost savings",
+				"Delivered auto-healing solutions",
+				"Implemented Mobile DevOps to AppStore and Playstore",
+				"Implemented automated testing platforms and unit tests to ensure code quality"
+			]
+		},
+		{
+			"name": "UnitedHealth Group",
+			"position": "Analyst Programmer",
+			"url": "",
+			"startDate": "2008-09",
+			"endDate": "2011-12",
+			"summary": "Developed and optimized server-side logic. Worked with RESTful APIs and various Node.js frameworks. Specialized in the integration of APIs (FinTech & HIPAA).",
+			"location": "New Jersey, USA & New Delhi, India",
+			"highlights": [
+				"Developed and optimized server-side logic",
+				"Worked with RESTful APIs and various Node.js frameworks",
+				"Demonstrated analytical skills, problem-solving abilities, and a commitment to delivering efficient, scalable software solutions",
+				"Developed various microservices in Node.js",
+				"Specialized in the integration of APIs (FinTech & HIPAA)",
+				"Developed bots for housekeeping operations, resulting in significant cost savings",
+				"Created event-driven microservices using Node.js and NoSQL/SQL databases",
+				"Automated morning checks using WebDriverJS & Splunk",
+				"Designed and implemented Single Sign-On for partners"
+			]
+		},
+		{
+			"name": "Radicle Inc.",
+			"position": "Analyst Programmer",
+			"url": "",
+			"startDate": "2006-07",
+			"endDate": "2008-08",
+			"summary": "Prepared design documents and coded per requirements in J2EE. Designed and developed scalable server-side applications using Java.",
+			"location": "New Delhi, India",
+			"highlights": [
+				"Prepared design documents and coded per requirements in J2EE",
+				"Designed and developed scalable server-side applications using Java",
+				"Integrated authentication module using LDAP",
+				"Developed robust and scalable server-side applications using Java",
+				"Leveraged frameworks like Spring Boot for rapid development and increased efficiency",
+				"Identified and resolved application performance bottlenecks",
+				"Automated build and deployment using Jenkins and performed release management tasks",
+				"Automated the detection and alerting of problems in logs using Splunk and developed dashboards",
+				"Prioritized defects for releases and ensured quality assurance across the team",
+				"Developed REST APIs and automated test cases for modules"
+			]
+		}
+	],
+	"volunteer": [],
+	"education": [
+		{
+			"institution": "Federation University",
+			"url": "",
+			"area": "Information Technology",
+			"studyType": "Masters",
+			"startDate": "2004",
+			"endDate": "2005",
+			"score": "",
+			"courses": []
+		},
+		{
+			"institution": "Victoria University",
+			"url": "",
+			"area": "Information Systems",
+			"studyType": "Master of Business",
+			"startDate": "2003",
+			"endDate": "2004",
+			"score": "",
+			"courses": []
+		},
+		{
+			"institution": "Delhi University",
+			"url": "",
+			"area": "Mathematics",
+			"studyType": "Bachelor of Science (Honors)",
+			"startDate": "1999",
+			"endDate": "2002",
+			"score": "",
+			"courses": []
+		}
+	],
+	"awards": [],
+	"certificates": [
+		{
+			"name": "AWS Certified SysOps Administrator Associate",
+			"issuer": "AWS"
+		},
+		{
+			"name": "AWS Certified Developer Associate",
+			"issuer": "AWS"
+		},
+		{
+			"name": "AWS Certified Solution Architect Associate",
+			"issuer": "AWS"
+		},
+		{
+			"name": "Microsoft Certified Azure IoT Developer Specialty",
+			"issuer": "Microsoft"
+		},
+		{
+			"name": "Certificate in Applied Business Analytics",
+			"issuer": ""
+		}
+	],
+	"publications": [],
+	"skills": [
+		{
+			"name": "Development",
+			"keywords": [
+				"NodeJS",
+				"TypeScript",
+				"ReactJS",
+				"NextJS",
+				"Dart",
+				"Flutter",
+				"Shell Scripting",
+				"Java",
+				"REST",
+				"GraphQL"
+			]
+		},
+		{
+			"name": "Database",
+			"keywords": [
+				"DynamoDB",
+				"Cosmos DB",
+				"MongoDB",
+				"MySQL",
+				"PostgreSQL",
+				"Oracle",
+				"Redis",
+				"Elastic Search"
+			]
+		},
+		{
+			"name": "DevOps",
+			"keywords": [
+				"GitHub",
+				"Code Pipeline",
+				"Code Build",
+				"GitHub Actions",
+				"Bitrise",
+				"AppCenter",
+				"AppStore",
+				"Play Store",
+				"Appium",
+				"Webdriver IO",
+				"Playwright",
+				"DataDog",
+				"SumoLogic"
+			]
+		},
+		{
+			"name": "Streamlining",
+			"keywords": [
+				"GitHub",
+				"Jira",
+				"Shortcut",
+				"CI/CD",
+				"Agile Practices"
+			]
+		},
+		{
+			"name": "AWS",
+			"keywords": [
+				"Lambda",
+				"Step Functions",
+				"SQS",
+				"SNS",
+				"IAM",
+				"KMS",
+				"VPC",
+				"VPN",
+				"Route53",
+				"S3",
+				"CDN",
+				"API Gateway",
+				"ALB",
+				"AppSync",
+				"WAF",
+				"EC2",
+				"Cognito",
+				"ElastiCache",
+				"DynamoDB",
+				"RDS",
+				"CloudFormation",
+				"ECS Fargate",
+				"Kinesis",
+				"CloudWatch",
+				"X-Ray",
+				"Verified Permissions"
+			]
+		},
+		{
+			"name": "Microsoft Azure",
+			"keywords": [
+				"Resource Groups",
+				"Function App",
+				"ApiM",
+				"Azure AD",
+				"Cosmos DB",
+				"Storage Account",
+				"Event Grid",
+				"Event Bus",
+				"Azure DevOps",
+				"IoT Hub",
+				"DPS",
+				"Stream Analytics",
+				"ARM Templates",
+				"Bicep",
+				"Azure Policies"
+			]
+		},
+		{
+			"name": "SaaS",
+			"keywords": [
+				"Plaid",
+				"Square",
+				"Synapse",
+				"Customer.io",
+				"Twilio",
+				"SendGrid",
+				"GetStream",
+				"Amplitude",
+				"Segment"
+			]
+		}
+	],
+	"projects": [],
+	"meta": {
+		"version": "v1.0.0",
+		"canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+	}
 }
