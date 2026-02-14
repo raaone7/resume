@@ -1,0 +1,19 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "Ram's Resume",
+  "scripts": {
+    "serve": "mkdir -p out && resume serve --dir out --theme $npm_config_theme",
+    "export": "mkdir -p out && resume export ./out/resume.pdf --theme $npm_config_theme",
+    "serve:ats": "mkdir -p out && resume serve --dir out --theme straightforward",
+    "export:ats": "mkdir -p out && resume export ./out/resume-ats.pdf --theme straightforward"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsonresume-theme-stackoverflow": "^2.1.0",
+    "jsonresume-theme-straightforward": "^0.2.0",
+    "resume-cli": "^3.1.2"
+  }
+}
