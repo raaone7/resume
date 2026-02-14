@@ -105,7 +105,7 @@
 	"education": [
 		{
 			"institution": "Federation University",
-			"url": "",
+			"url": "https://www.federation.edu.au/",
 			"area": "Information Technology",
 			"studyType": "Masters",
 			"startDate": "2004",
@@ -115,7 +115,7 @@
 		},
 		{
 			"institution": "Victoria University",
-			"url": "",
+			"url": "https://www.vu.edu.au/",
 			"area": "Information Systems",
 			"studyType": "Master of Business",
 			"startDate": "2003",
@@ -125,7 +125,7 @@
 		},
 		{
 			"institution": "Delhi University",
-			"url": "",
+			"url": "https://www.du.ac.in/",
 			"area": "Mathematics",
 			"studyType": "Bachelor of Science (Honors)",
 			"startDate": "1999",
@@ -154,7 +154,7 @@
 		},
 		{
 			"name": "Certificate in Applied Business Analytics",
-			"issuer": ""
+			"issuer": "Massachusetts Institute of Technology"
 		}
 	],
 	"publications": [],
