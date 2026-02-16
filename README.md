@@ -1,5 +1,5 @@
-# resume
-resume
+# Rams resume
+[resume](https://raaone7.github.io/resume)
 
 
 # Other themes
@@ -9,7 +9,5 @@ resume
 - jsonresume-theme-stackunderflow
 - jsonresume-theme-straightforward
 
-
-
-
+# Commands
 npm run export --theme=stackoverflow && npm run export:ats
