@@ -4,7 +4,7 @@
 		"name": "Ram Subramanian",
 		"label": "Full-Stack Cloud Engineer",
 		"email": "ramshyam1982@gmail.com",
-		"phone": "+610403341846",
+		"phone": "+61403341846",
 		"summary": "Full-Stack Cloud & IoT Engineer with 2 decades of experience and AI orchestrator. Expert in NodeJS, TypeScript, AWS, Azure, ReactJS, Flutter. Advocates code governance, boilerplate design, and translating business problems into clear implementation models.",
 		"location": {
 			"city": "Melbourne",
@@ -109,7 +109,6 @@
 			"studyType": "Masters",
 			"startDate": "2004",
 			"endDate": "2005",
-			"score": "",
 			"courses": []
 		},
 		{
@@ -119,7 +118,6 @@
 			"studyType": "Master of Business",
 			"startDate": "2003",
 			"endDate": "2004",
-			"score": "",
 			"courses": []
 		},
 		{
@@ -129,7 +127,6 @@
 			"studyType": "Bachelor of Science (Honors)",
 			"startDate": "1999",
 			"endDate": "2002",
-			"score": "",
 			"courses": []
 		}
 	],
@@ -177,22 +174,23 @@
 			"name": "Database",
 			"keywords": [
 				"DynamoDB",
-				"Cosmos DB",
-				"MongoDB",
 				"MySQL",
 				"PostgreSQL",
+				"MongoDB",
+				"Cosmos DB",
 				"Oracle",
 				"Redis",
-				"Elastic Search"
+				"Elastic Search",
+				"Time Series DB"
 			]
 		},
 		{
 			"name": "DevOps",
 			"keywords": [
 				"GitHub",
+				"GitHub Actions",
 				"Code Pipeline",
 				"Code Build",
-				"GitHub Actions",
 				"Bitrise",
 				"AppCenter",
 				"AppStore",
@@ -200,6 +198,7 @@
 				"Appium",
 				"Webdriver IO",
 				"Playwright",
+				"Splunk",
 				"DataDog",
 				"SumoLogic"
 			]
@@ -252,7 +251,10 @@
 				"Kinesis",
 				"CloudWatch",
 				"X-Ray",
-				"Verified Permissions"
+				"Verified Permissions",
+				"IoT Core",
+				"LoRaWAN",
+				"BedRock"
 			]
 		},
 		{
@@ -272,7 +274,9 @@
 				"Stream Analytics",
 				"ARM Templates",
 				"Bicep",
-				"Azure Policies"
+				"Azure Policies",
+				"Azure AI Document Intelligence",
+				"Azure OpenAI"
 			]
 		},
 		{
@@ -280,7 +284,9 @@
 			"keywords": [
 				"Plaid",
 				"Square",
+				"Apex Clearing",
 				"Synapse",
+				"Green Dot Bank",
 				"Customer.io",
 				"Twilio",
 				"SendGrid",
