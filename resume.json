@@ -204,16 +204,6 @@
 			]
 		},
 		{
-			"name": "Streamlining",
-			"keywords": [
-				"GitHub",
-				"Jira",
-				"Shortcut",
-				"CI/CD",
-				"Agile Practices"
-			]
-		},
-		{
 			"name": "AI Skills",
 			"keywords": [
 				"AI Orchestrator",
@@ -222,7 +212,7 @@
 				"Azure AI Document Intelligence",
 				"Azure OpenAI",
 				"n8n",
-				"Agentic AI",2
+				"Agentic AI",
 				"Cursor",
 				"MCP Servers",
 				"GitHub Copilot",
@@ -308,6 +298,16 @@
 				"GetStream",
 				"Amplitude",
 				"Segment"
+			]
+		},
+		{
+			"name": "Streamlining",
+			"keywords": [
+				"GitHub",
+				"Jira",
+				"Shortcut",
+				"CI/CD",
+				"Agile Practices"
 			]
 		}
 	],
