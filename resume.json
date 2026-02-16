@@ -216,19 +216,20 @@
 		{
 			"name": "AI Skills",
 			"keywords": [
-				"Cursor Skills",
 				"AI Orchestrator",
-				"Agentic AI",
-				"Cursor",
-				"GitHub Copilot",
-				"ChatGPT",
-				"RAG",
-				"MCP",
-				"n8n",
-				"OpenAI",
+				"Utilizing LLM models",
 				"BedRock",
 				"Azure AI Document Intelligence",
-				"Azure OpenAI"
+				"Azure OpenAI",
+				"n8n",
+				"Agentic AI",
+				"Cursor",
+				"MCP Servers",
+				"GitHub Copilot",
+				"AI Reasoning",
+				"ChatGPT",
+				"RAG",
+				"OpenAI"
 			]
 		},
 		{
