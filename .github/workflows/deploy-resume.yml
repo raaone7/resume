@@ -34,8 +34,6 @@ jobs:
         run: |
           mkdir -p dist
           npx resume export dist/index.html --resume resume.json --theme stackoverflow
-          # npx resume export dist/resume.pdf --resume resume.json --theme stackoverflow
-          cp readme.md dist/readme.md
 
       - name: Deploy HTML to gh-pages
         uses: peaceiris/actions-gh-pages@v4
