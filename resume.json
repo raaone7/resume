@@ -210,19 +210,34 @@
 				"Jira",
 				"Shortcut",
 				"CI/CD",
-				"Agile Practices",
-				"Code Governance"
+				"Agile Practices"
+			]
+		},
+		{
+			"name": "AI Skills",
+			"keywords": [
+				"Cursor Skills",
+				"AI Orchestrator",
+				"Agentic AI",
+				"Cursor",
+				"GitHub Copilot",
+				"ChatGPT",
+				"RAG",
+				"MCP",
+				"n8n",
+				"OpenAI",
+				"BedRock",
+				"Azure AI Document Intelligence",
+				"Azure OpenAI"
 			]
 		},
 		{
 			"name": "Practices & Expertise",
 			"keywords": [
-				"AI Orchestrator",
+				"Code Governance",
 				"Boilerplate Expert",
 				"Mental Model Expert",
-				"Cursor",
-				"GitHub Copilot",
-				"ChatGPT"
+				"Incresing Developers' Velocity"
 			]
 		},
 		{
@@ -255,8 +270,7 @@
 				"X-Ray",
 				"Verified Permissions",
 				"IoT Core",
-				"LoRaWAN",
-				"BedRock"
+				"LoRaWAN"
 			]
 		},
 		{
@@ -276,9 +290,7 @@
 				"Stream Analytics",
 				"ARM Templates",
 				"Bicep",
-				"Azure Policies",
-				"Azure AI Document Intelligence",
-				"Azure OpenAI"
+				"Azure Policies"
 			]
 		},
 		{
