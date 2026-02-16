@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "ram-resume",
+			"path": "."
+		},
+		{
+			"name": "amol-resume",
+			"path": "../amol-resume"
+		}
+	]
+}

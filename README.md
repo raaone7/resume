@@ -8,3 +8,8 @@ resume
 - jsonresume-theme-stackoverflow
 - jsonresume-theme-stackunderflow
 - jsonresume-theme-straightforward
+
+
+
+
+npm run export --theme=stackoverflow && npm run export:ats
