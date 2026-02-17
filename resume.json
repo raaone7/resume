@@ -185,7 +185,7 @@
 				"Redis",
 				"Elasticsearch",
 				"InfluxDB",
-				"TimescaleDB",
+				"Timeseries DB",
 				"Indexing",
 				"Query Optimization",
 				"Schema Design"
@@ -197,7 +197,7 @@
 				"Git",
 				"GitHub",
 				"GitHub Actions",
-				"Continuous Integration & Deployment (CI/CD)",
+				"CI/CD",
 				"AWS",
 				"AWS CodePipeline",
 				"AWS CodeBuild",
@@ -218,14 +218,44 @@
 				"Splunk",
 				"Datadog",
 				"Sumo Logic",
-				"PagerDuty",
-				"Agile / Scrum Practices",
-				"Jira",
-				"Shortcut"
+				"PagerDuty"
 			]
 		},
 		{
-			"name": "Cloud & Platform",
+			"name": "Applied AI & GenAI",
+			"keywords": [
+				"Large Language Models (LLMs)",
+				"Prompt Engineering",
+				"Retrieval-Augmented Generation (RAG)",
+				"Agentic Workflows",
+				"AI Orchestration",
+				"Amazon Bedrock",
+				"Azure OpenAI Service",
+				"Azure AI Document Intelligence",
+				"OpenAI APIs",
+				"n8n",
+				"MCP Servers",
+				"GitHub Copilot",
+				"Cursor"
+			]
+		},
+		{
+			"name": "Engineering Practices & Expertise",
+			"keywords": [
+				"Code Governance",
+				"Coding Standards & Best Practices",
+				"Architecture & Design Patterns",
+				"Reusable Component & Boilerplate Design",
+				"Developer Experience (DX)",
+				"Engineering Productivity",
+				"Code Reviews",
+				"Technical Documentation",
+				"System Design",
+				"Team Enablement"
+			]
+		},
+		{
+			"name": "AWS",
 			"keywords": [
 				"AWS Lambda",
 				"Amazon API Gateway",
@@ -254,7 +284,12 @@
 				"AWS CloudFormation",
 				"Amazon Verified Permissions",
 				"AWS IoT Core",
-				"AWS IoT Core for LoRaWAN",
+				"AWS IoT Core for LoRaWAN"
+			]
+		},
+		{
+			"name": "Microsoft Azure",
+			"keywords": [
 				"Azure Resource Groups",
 				"Azure Functions",
 				"Azure API Management (API Gateway)",
@@ -275,24 +310,6 @@
 				"ARM Templates",
 				"Bicep",
 				"Azure Policy"
-			]
-		},
-		{
-			"name": "Applied AI & GenAI",
-			"keywords": [
-				"Large Language Models (LLMs)",
-				"Prompt Engineering",
-				"Retrieval-Augmented Generation (RAG)",
-				"Agentic Workflows",
-				"AI Orchestration",
-				"Amazon Bedrock",
-				"Azure OpenAI Service",
-				"Azure AI Document Intelligence",
-				"OpenAI APIs",
-				"n8n",
-				"MCP Servers",
-				"GitHub Copilot",
-				"Cursor"
 			]
 		},
 		{
