@@ -185,7 +185,7 @@
 				"Redis",
 				"Elasticsearch",
 				"InfluxDB",
-				"TimeseriesDB",
+				"TimescaleDB",
 				"Indexing",
 				"Query Optimization",
 				"Schema Design"
@@ -197,7 +197,7 @@
 				"Git",
 				"GitHub",
 				"GitHub Actions",
-				"CI/CD",
+				"Continuous Integration & Deployment (CI/CD)",
 				"AWS",
 				"AWS CodePipeline",
 				"AWS CodeBuild",
@@ -218,47 +218,17 @@
 				"Splunk",
 				"Datadog",
 				"Sumo Logic",
-				"PagerDuty"
+				"PagerDuty",
+				"Agile / Scrum Practices",
+				"Jira",
+				"Shortcut"
 			]
 		},
 		{
-			"name": "Applied AI & GenAI",
-			"keywords": [
-				"Large Language Models (LLMs)",
-				"Prompt Engineering",
-				"Retrieval-Augmented Generation (RAG)",
-				"Agentic Workflows",
-				"AI Orchestration",
-				"Amazon Bedrock",
-				"Azure OpenAI Service",
-				"Azure AI Document Intelligence",
-				"OpenAI APIs",
-				"n8n",
-				"MCP Servers",
-				"GitHub Copilot",
-				"Cursor"
-			]
-		},
-		{
-			"name": "Engineering Practices & Expertise",
-			"keywords": [
-				"Code Governance",
-				"Coding Standards & Best Practices",
-				"Architecture & Design Patterns",
-				"Reusable Component & Boilerplate Design",
-				"Developer Experience (DX)",
-				"Engineering Productivity",
-				"Code Reviews",
-				"Technical Documentation",
-				"System Design",
-				"Team Enablement"
-			]
-		},
-		{
-			"name": "AWS",
+			"name": "Cloud & Platform",
 			"keywords": [
 				"AWS Lambda",
-				"API Gateway",
+				"Amazon API Gateway",
 				"Step Functions",
 				"Amazon SQS",
 				"Amazon SNS",
@@ -284,12 +254,7 @@
 				"AWS CloudFormation",
 				"Amazon Verified Permissions",
 				"AWS IoT Core",
-				"AWS IoT Core for LoRaWAN"
-			]
-		},
-		{
-			"name": "Microsoft Azure",
-			"keywords": [
+				"AWS IoT Core for LoRaWAN",
 				"Azure Resource Groups",
 				"Azure Functions",
 				"Azure API Management (API Gateway)",
@@ -313,6 +278,24 @@
 			]
 		},
 		{
+			"name": "Applied AI & GenAI",
+			"keywords": [
+				"Large Language Models (LLMs)",
+				"Prompt Engineering",
+				"Retrieval-Augmented Generation (RAG)",
+				"Agentic Workflows",
+				"AI Orchestration",
+				"Amazon Bedrock",
+				"Azure OpenAI Service",
+				"Azure AI Document Intelligence",
+				"OpenAI APIs",
+				"n8n",
+				"MCP Servers",
+				"GitHub Copilot",
+				"Cursor"
+			]
+		},
+		{
 			"name": "SaaS & Third-Party Integrations",
 			"keywords": [
 				"Plaid",
@@ -329,13 +312,18 @@
 			]
 		},
 		{
-			"name": "Engineering Productivity & Workflow",
+			"name": "Engineering Practices & Expertise",
 			"keywords": [
-				"GitHub",
-				"Jira",
-				"Shortcut",
-				"Continuous Integration & Deployment (CI/CD)",
-				"Agile / Scrum Practices"
+				"Code Governance",
+				"Coding Standards & Best Practices",
+				"Architecture & Design Patterns",
+				"Reusable Component & Boilerplate Design",
+				"Developer Experience (DX)",
+				"Engineering Productivity",
+				"Code Reviews",
+				"Technical Documentation",
+				"System Design",
+				"Team Enablement"
 			]
 		}
 	],
