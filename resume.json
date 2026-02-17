@@ -328,6 +328,10 @@
 			"name": "Engineering Practices & Expertise",
 			"keywords": [
 				"Code Governance",
+				"Microservices Architecture",
+				"Event-Driven Architecture",
+				"Data Modelling",
+				"Schema Design",
 				"Coding Standards & Best Practices",
 				"Architecture & Design Patterns",
 				"Reusable Component & Boilerplate Design",
