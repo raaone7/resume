@@ -311,6 +311,13 @@
 		{
 			"name": "SaaS & Third-Party Integrations",
 			"keywords": [
+				"Auth0",
+				"Okta",
+				"Cognito",
+				"OAuth2",
+				"OIDC",
+				"SAML",
+				"JWTs",
 				"Plaid",
 				"Square",
 				"Apex Clearing",
@@ -332,6 +339,7 @@
 				"Event-Driven Architecture",
 				"Data Modelling",
 				"Schema Design",
+				"Well-Architected Framework",
 				"Coding Standards & Best Practices",
 				"Architecture & Design Patterns",
 				"Reusable Component & Boilerplate Design",
