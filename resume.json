@@ -298,7 +298,6 @@
 				"Azure Storage (Blob, Queue, Table)",
 				"Azure Event Grid",
 				"Azure Service Bus",
-				"Azure DevOps",
 				"Azure IoT Hub",
 				"Device Provisioning Service (DPS)",
 				"Azure Stream Analytics",
@@ -306,9 +305,6 @@
 				"Azure Key Vault",
 				"Managed Identity",
 				"Azure Monitor",
-				"Application Insights",
-				"ARM Templates",
-				"Bicep",
 				"Azure Policy"
 			]
 		},
