@@ -260,6 +260,7 @@
 				"AWS Lambda",
 				"Amazon API Gateway",
 				"Step Functions",
+				"Cognito",
 				"Amazon SQS",
 				"Amazon SNS",
 				"Amazon AppSync",
@@ -313,7 +314,7 @@
 			"keywords": [
 				"Auth0",
 				"Okta",
-				"Cognito",
+				"Google Sign-In",
 				"OAuth2",
 				"OIDC",
 				"SAML",
